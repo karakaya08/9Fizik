@@ -35,3 +35,10 @@ Yağmur Karakaya 9/A 108
 + 100 grams waffle's calories is 291,1 kcal.
 ![](https://n11scdn.akamaized.net/a1/450/ev-yasam/diger-unlu-mamuller-tatlilar/waffle-unu__0514476951993915.jpg)
 
+# AİLEMİN VÜCUT KİTLE ENDEKSLERİ
++ Benim vücut kitle endeksim: 18,9
++ Küçük kardeşimin vücut kitle endeksi:18,1
++ Büyük kardeşimin vücut kitle endeksi:17,7
++ Annemin vücut kitle endeksi:24,6
++ Babamın vücut kitle endeksi:30,8
+
